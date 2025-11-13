@@ -22,13 +22,13 @@ El lenguaje de programación **Python** fue creado por **Guido van Rossum**, un 
 
 Python ha ganado una inmensa **popularidad gracias a su sintaxis clara y legible**, que enfatiza la sencillez y la productividad (lo que se conoce como código "pythónico", influenciado por "El Zen de Python"). Actualmente, es uno de los lenguajes de programación más populares y versátiles del mundo, siendo fundamental en áreas como:
 
-- Ciencia de Datos y Análisis de Datos. 
+- **Ciencia de Datos y Aprendizaje Automático (ML)**: es el lenguaje dominante para estas áreas, con *herramientas clave como Pandas, Scikit-learn y TensorFlow*.
 
-- Aprendizaje Automático (Machine Learning) e Inteligencia Artificial. 
+- **Desarrollo Web**: utilizado para la creación de backends (servidores) con *frameworks populares como Django y Flask*.
 
-- Desarrollo Web (con frameworks como Django y Flask). 
+- **Automatización de Tareas (Scripting)**: se usa para escribir scripts que automatizan tareas repetitivas de administración de sistemas.
 
-- Automatización de tareas (Scripting). 
+- **Análisis de Big Data**: utilizado en *entornos distribuidos como Apache Spark*.
 
 # ¿Qué es Python?
 
@@ -47,5 +47,3 @@ Es un lenguaje de programación de alto nivel, interpretado, de propósito gener
 - **Orientado a Objetos (OO)**: permite *organizar el código utilizando clases y objetos*, facilitando la modularidad y la reutilización del código.
 
 - **Gran Biblioteca Estándar y Ecosistema**: Python viene con una *enorme biblioteca estándar preconstruida y cuenta con un vasto ecosistema de módulos y frameworks de terceros* (como NumPy, Pandas, Django, y TensorFlow) que amplían enormemente su funcionalidad.
-
-- 
