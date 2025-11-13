@@ -18,7 +18,7 @@ El lenguaje de programación **Python** fue creado por **Guido van Rossum**, un 
 
 **2020 (Enero)**: Final oficial del soporte para Python 2.7, consolidando a la serie Python 3.x como el estándar y única rama con soporte activo.
 
-# Filosofía y Popularidad.
+## Filosofía y Popularidad.
 
 Python ha ganado una inmensa **popularidad gracias a su sintaxis clara y legible**, que enfatiza la sencillez y la productividad (lo que se conoce como código "pythónico", influenciado por "El Zen de Python"). Actualmente, es uno de los lenguajes de programación más populares y versátiles del mundo, siendo fundamental en áreas como:
 
