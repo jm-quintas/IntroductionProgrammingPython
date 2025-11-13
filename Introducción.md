@@ -47,3 +47,5 @@ Es un lenguaje de programación de alto nivel, interpretado, de propósito gener
 - **Orientado a Objetos (OO)**: permite *organizar el código utilizando clases y objetos*, facilitando la modularidad y la reutilización del código.
 
 - **Gran Biblioteca Estándar y Ecosistema**: Python viene con una *enorme biblioteca estándar preconstruida y cuenta con un vasto ecosistema de módulos y frameworks de terceros* (como NumPy, Pandas, Django, y TensorFlow) que amplían enormemente su funcionalidad.
+
+Python es valorado por su curva de aprendizaje relativamente suave y su capacidad para aumentar la productividad de los desarrolladores.
