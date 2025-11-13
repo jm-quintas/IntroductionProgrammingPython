@@ -30,6 +30,22 @@ Python ha ganado una inmensa **popularidad gracias a su sintaxis clara y legible
 
 - Automatización de tareas (Scripting). 
 
-## ¿Qué es Python?
+# ¿Qué es Python?
 
 Es un lenguaje de programación de alto nivel, interpretado, de propósito general, y orientado a objetos (aunque también soporta otros paradigmas).
+
+## Características Principales.
+
+- **Alto Nivel**: esto significa que el *código se asemeja más al lenguaje humano (inglés)* que al código de máquina, haciendo que sea más fácil de leer y escribir. No tienes que preocuparte por gestionar la memoria de bajo nivel.
+
+- **Interpretado**: el código Python se *ejecuta línea por línea por un intérprete*, en lugar de ser compilado a código de máquina de antemano. Esto facilita la depuración y el prototipado rápido.
+
+- **De Propósito General (Versatilidad)**: se utiliza en una vasta variedad de dominios, incluyendo desarrollo web, análisis de datos, inteligencia artificial, automatización de sistemas, y desarrollo de software de escritorio.
+
+- **Fácil de Leer (Sintaxis Clara)**: su filosofía de diseño enfatiza la legibilidad y la sencillez de la sintaxis, utilizando la sangría obligatoria para definir bloques de código (en lugar de llaves o corchetes), lo que resulta en un código más claro y menos propenso a errores.
+
+- **Orientado a Objetos (OO)**: permite *organizar el código utilizando clases y objetos*, facilitando la modularidad y la reutilización del código.
+
+- **Gran Biblioteca Estándar y Ecosistema**: Python viene con una *enorme biblioteca estándar preconstruida y cuenta con un vasto ecosistema de módulos y frameworks de terceros* (como NumPy, Pandas, Django, y TensorFlow) que amplían enormemente su funcionalidad.
+
+- 
