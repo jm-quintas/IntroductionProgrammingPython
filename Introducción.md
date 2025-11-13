@@ -29,3 +29,7 @@ Python ha ganado una inmensa **popularidad gracias a su sintaxis clara y legible
 - Desarrollo Web (con frameworks como Django y Flask). 
 
 - Automatización de tareas (Scripting). 
+
+## ¿Qué es Python?
+
+Es un lenguaje de programación de alto nivel, interpretado, de propósito general, y orientado a objetos (aunque también soporta otros paradigmas).
