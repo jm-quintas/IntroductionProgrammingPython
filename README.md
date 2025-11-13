@@ -8,4 +8,4 @@ Profesor: Dr. David J Malan.
 
 | Unidad | Contenido | Repositorio |
 | :---: | :---: | :---: |
-| 1 | Introducción | [Repositorio](https://github.com/jm-quintas/IntroductionProgrammingPython/blob/main/Introducci%C3%B3n.md) |
+| 1 | Introducción | [Repositorio](https://github.com/jm-quintas/IntroductionProgrammingPython/blob/main/1.Introducci%C3%B3n.md) |
